@@ -1,6 +1,6 @@
 This is a new line that Avdi added.
 
-Add: The quick brown fox jumped over the lazy dog.
+Add: The quick brown fox jumped over the lazy dog. Frobozz!
 
 All to avoid having to deal with Git.
 
